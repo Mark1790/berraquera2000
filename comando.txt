@@ -1,0 +1,5 @@
+git init
+git add "README.txt"
+git commit -m "berraquera2000"
+git remote add origin https://github.com/Mark1790/berraquera2000
+git push
